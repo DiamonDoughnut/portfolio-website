@@ -700,6 +700,10 @@ footer{
         width: 100%;
         border-radius: 0;
     }
+
+    .shape{
+        display: none;
+    }
 }
 
 @media (max-width: 480px){
